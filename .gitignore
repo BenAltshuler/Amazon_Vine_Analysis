@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Data set
+amazon_reviews_us_Lawn_and_Garden_v1_00.tsv
+amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz
+Data_Set
+
 # Distribution / packaging
 .Python
 build/
